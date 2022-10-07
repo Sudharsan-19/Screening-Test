@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्क्रीनिंग परीक्षा</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">नमस्ते खाली टुकड़ा</string>
+    <string name="login_form">लॉगिन फॉर्म</string>
+    <string name="email">ईमेल</string>
+    <string name="pin">नत्थी करना</string>
+    <string name="log_in">लॉग इन करें</string>
+    <string name="register">पंजीकरण करवाना</string>
+    <string name="new_user">नया उपयोगकर्ता?</string>
+    <string name="registration_form">पंजीकरण फॉर्म</string>
+    <string name="enter_parent_name">माता-पिता का नाम दर्ज करें</string>
+    <string name="enter_your_email_id">अपना ईमेल आईडी दर्ज करें</string>
+    <string name="set_6_digit_pin">6 अंकों का पिन सेट करें</string>
+    <string name="confirm_pin">पिन की पुष्टि करें</string>
+    <string name="enter_your_phone_number">अपना दूरभाष क्रमांक दर्ज करें</string>
+    <string name="send_otp">OTP भेजें</string>
+    <string name="enter_the_otp_sent_to_the_above_number">ऊपर दिए गए नंबर पर भेजे गए ओटीपी को दर्ज करें</string>
+    <string name="verify_otp">ओटीपी सत्यापित करें</string>
+    <string name="didnt_receive_the_otp">ओटीपी प्राप्त नहीं हुआ?</string>
+    <string name="resend_otp">ओटीपी पुनः भेजें</string>
+    <string name="already_registered">पहले से ही पंजीकृत?</string>
+    <string name="child_details">बच्चे का विवरण</string>
+    <string name="enter_the_kid_name">बच्चे का नाम दर्ज करें</string>
+    <string name="enter_the_age">उम्र दर्ज करें</string>
+    <string name="date_of_birth">जन्म की तारीख</string>
+    <string name="select_class">कक्षा का चयन करें</string>
+    <string name="welcome">स्वागत</string>
+    <string name="child_name">बच्चे का नाम</string>
+    <string name="child_age">बच्चे की उम्र</string>
+    <string name="child_dob">बाल जन्म तिथि</string>
+    <string name="child_class">बाल वर्ग</string>
+    <string name="test_1">टेस्ट 1</string>
+    <string name="take_test1">परीक्षा लें1</string>
+    <string name="view_report">रिपोर्ट देखें</string>
+    <string name="test_2">टेस्ट 2</string>
+    <string name="take_test2">परीक्षा दो</string>
+    <string name="question">प्रश्न</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="next">अगला</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="alert">चेतावनी !</string>
+    <string name="wantToExit">क्या आपको यकीन है? क्या आप परीक्षा से बाहर निकलना चाहते हैं</string>
+    <string name="audioStartedPlaying">ऑडियो बजने लगा..</string>
+    <string name="errorFoundIs">\"त्रुटि मिली है \"</string>
+    <string name="audioPaused">ऑडियो रोक दिया गया है</string>
+    <string name="audioNotPlayed">ऑडियो नहीं चला है</string>
+    <string name="AlreadyTookTest">पहले ही परीक्षा दे चुका है</string>
+    <string name="doYouWantToExit">क्या आपको यकीन है? क्या आप परीक्षा से बाहर निकलना चाहते हैं</string>
+    <string name="ThisMustbeParent">इस परीक्षा में माता-पिता को भाग लेना चाहिए</string>
+    <string name="proceed">आगे बढ़ना</string>
+    <string name="wantTOLogout">क्या आपको यकीन है? क्या आप लॉग आउट करना चाहते हैं?</string>
+    <string name="OnlyOneChild">आपको मुफ्त में केवल एक बच्चा पैदा करने की अनुमति है</string>
+    <string name="okay">ठीक</string>
+    <string name="freeTrialEnded">आपका नि:शुल्क परीक्षण समाप्त हो गया है, अधिक परीक्षण के लिए भुगतान करें</string>
+    <string name="test2">टेस्ट 2</string>
+    <string name="takeTheTes">रिपोर्ट देखने के लिए टेस्ट1 दें</string>
+    <string name="test1">टेस्ट1</string>
+    <string name="share">शेयर करना</string>
+    <string name="select_gender">लिंग चुनें</string>
+    <string name="child_gender">बाल लिंग</string>
+    <string name="free_trail">आप अपने मुफ़्त ट्रेल पर हैं, आप परीक्षण के लिए केवल एक बच्चे को जोड़ सकते हैं</string>
+
+</resources>

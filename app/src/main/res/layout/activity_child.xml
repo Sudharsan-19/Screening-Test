@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="portrait"
+    tools:context=".ChildActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginEnd="20dp"
+                android:padding="5dp"
+                android:text="@string/child_details" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/TIL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:hint="@string/enter_the_kid_name"
+                android:padding="5dp"
+                android:textColorHint="@color/purple_500"
+                app:hintTextColor="@color/purple_500">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/TIETKname"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:importantForAutofill="no"
+                    android:inputType="text"
+                    android:textColor="@color/purple_500"
+                    android:textColorHint="@color/purple_500"
+                    android:textSize="14sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/TIL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:hint="@string/enter_the_age"
+                android:padding="5dp"
+                android:textColorHint="@color/purple_500"
+                app:hintTextColor="@color/purple_500">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/TIETKage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:importantForAutofill="no"
+                    android:inputType="text"
+                    android:textColor="@color/purple_500"
+                    android:textColorHint="@color/purple_500"
+                    android:textSize="14sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/TIL1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:hint="@string/select_gender"
+                android:padding="5dp"
+                android:textColorHint="@color/purple_500"
+                app:hintTextColor="@color/purple_500">
+
+                <AutoCompleteTextView
+                    android:id="@+id/TIETKgender"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:dropDownHeight="200dp"
+                    android:inputType="none"
+                    android:textColor="@color/purple_500"
+                    android:textColorHint="@color/purple_500"
+                    android:textSize="14sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/TIL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:hint="@string/date_of_birth"
+                android:padding="5dp"
+                android:textColorHint="@color/purple_500"
+                app:hintTextColor="@color/purple_500">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/TIETsdate"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:importantForAutofill="no"
+                    android:inputType="none"
+                    android:textColor="@color/purple_500"
+                    android:textColorHint="@color/purple_500"
+                    android:textSize="14sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/TIL1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:hint="@string/select_class"
+                android:padding="5dp"
+                android:textColorHint="@color/purple_500"
+                app:hintTextColor="@color/purple_500">
+
+                <AutoCompleteTextView
+                    android:id="@+id/TIETKclass"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:dropDownHeight="200dp"
+                    android:inputType="none"
+                    android:textColor="@color/purple_500"
+                    android:textColorHint="@color/purple_500"
+                    android:textSize="14sp" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <!--            <LinearLayout-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:orientation="horizontal">-->
+            <!--                <TextView-->
+            <!--                    android:layout_marginTop="20dp"-->
+            <!--                    android:layout_marginLeft="20dp"-->
+            <!--                    android:layout_width="wrap_content"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:text="Test1 Result"/>-->
+            <!--                <TextView-->
+            <!--                    android:id="@+id/T1rslt"-->
+            <!--                    android:layout_marginTop="20dp"-->
+            <!--                    android:layout_marginLeft="100dp"-->
+            <!--                    android:layout_width="wrap_content"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:text="null"/>-->
+            <!--                <Button-->
+            <!--                    android:id="@+id/t1btn"-->
+            <!--                    android:layout_marginTop="20dp"-->
+            <!--                    android:layout_marginLeft="40dp"-->
+            <!--                    android:layout_width="wrap_content"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:text="Take test1"-->
+            <!--                    />-->
+            <!--            </LinearLayout>-->
+            <!--            <LinearLayout-->
+            <!--                android:visibility="visible"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:orientation="horizontal">-->
+            <!--                <TextView-->
+            <!--                    android:layout_marginTop="20dp"-->
+            <!--                    android:layout_marginLeft="20dp"-->
+            <!--                    android:layout_width="wrap_content"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:text="Test2 Result"/>-->
+            <!--                <TextView-->
+            <!--                    android:id="@+id/T2rslt"-->
+            <!--                    android:layout_marginTop="20dp"-->
+            <!--                    android:layout_marginLeft="100dp"-->
+            <!--                    android:layout_width="wrap_content"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:text="null"/>-->
+            <!--                <Button-->
+            <!--                    android:id="@+id/t2btn"-->
+            <!--                    android:layout_marginTop="20dp"-->
+            <!--                    android:layout_marginLeft="40dp"-->
+            <!--                    android:layout_width="wrap_content"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:text="Take test2"-->
+            <!--                    />-->
+            <!--            </LinearLayout>-->
+
+
+            <ProgressBar
+                android:id="@+id/VerifyProgressBar"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:visibility="gone" />
+
+
+            <Button
+                android:id="@+id/Regbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:background="@color/purple_500"
+                android:text="@string/register"
+                android:textColor="@color/white">
+
+            </Button>
+
+
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>
+
+

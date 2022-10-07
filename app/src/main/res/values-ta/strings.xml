@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">திரையிடல் சோதனை</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">வணக்கம் வெற்று துண்டு</string>
+    <string name="login_form">உள்நுழை படிவம்</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="pin">பின்</string>
+    <string name="log_in">உள்நுழைய</string>
+    <string name="register">பதிவு</string>
+    <string name="new_user">புதிய பயனர்?</string>
+    <string name="registration_form">பதிவு படிவம்</string>
+    <string name="enter_parent_name">பெற்றோர் பெயரை உள்ளிடவும்</string>
+    <string name="enter_your_email_id">உங்கள் மின்னஞ்சல் ஐடியை உள்ளிடவும்</string>
+    <string name="set_6_digit_pin">6 இலக்க பின்னை அமைக்கவும்</string>
+    <string name="confirm_pin">பின்னை உறுதிப்படுத்தவும்</string>
+    <string name="enter_your_phone_number">உங்கள் தொலைபேசி எண்ணை உள்ளிடவும்</string>
+    <string name="send_otp">OTP அனுப்பவும்</string>
+    <string name="enter_the_otp_sent_to_the_above_number">மேலே உள்ள எண்ணுக்கு அனுப்பப்பட்ட OTP ஐ உள்ளிடவும்</string>
+    <string name="verify_otp">OTPயைச் சரிபார்க்கவும்</string>
+    <string name="didnt_receive_the_otp">OTP பெறவில்லையா?</string>
+    <string name="resend_otp">OTP ஐ மீண்டும் அனுப்பவும்</string>
+    <string name="already_registered">ஏற்கனவே பதிவு செய்த பயனரா?</string>
+    <string name="child_details">குழந்தை விவரங்கள்</string>
+    <string name="enter_the_kid_name">குழந்தையின் பெயரை உள்ளிடவும்</string>
+    <string name="enter_the_age">வயதை உள்ளிடவும்</string>
+    <string name="date_of_birth">பிறந்த தேதி</string>
+    <string name="select_class">வகுப்பைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="welcome">வரவேற்பு</string>
+    <string name="child_name">குழந்தை பெயர்</string>
+    <string name="child_age">குழந்தை வயது</string>
+    <string name="child_dob">குழந்தை DOB</string>
+    <string name="child_class">குழந்தை வகுப்பு</string>
+    <string name="test_1">சோதனை 1</string>
+    <string name="take_test1">சோதனை 1</string>
+    <string name="view_report">அறிக்கையைப் பார்க்கவும்</string>
+    <string name="test_2">சோதனை 2</string>
+    <string name="take_test2">சோதனை 2 ஐ எடு</string>
+    <string name="question">கேள்வி</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+    <string name="next">அடுத்தது</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="alert">எச்சரிக்கை !</string>
+    <string name="wantToExit">நீ சொல்வது உறுதியா? தேர்வில் இருந்து வெளியேற விரும்புகிறீர்களா</string>
+    <string name="audioStartedPlaying">ஆடியோ ஓட ஆரம்பித்தது..</string>
+    <string name="errorFoundIs">\"கண்டுபிடிக்கப்பட்ட பிழை \"</string>
+    <string name="audioPaused">ஆடியோ இடைநிறுத்தப்பட்டது</string>
+    <string name="audioNotPlayed">ஆடியோ இயங்கவில்லை</string>
+    <string name="AlreadyTookTest">ஏற்கனவே டெஸ்ட் எடுத்தார்</string>
+    <string name="doYouWantToExit">நீ சொல்வது உறுதியா? தேர்வில் இருந்து வெளியேற விரும்புகிறீர்களா</string>
+    <string name="ThisMustbeParent">இந்த தேர்வில் பெற்றோர் கலந்து கொள்ள வேண்டும்</string>
+    <string name="proceed">தொடரவும்</string>
+    <string name="wantTOLogout">நீ சொல்வது உறுதியா? வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="OnlyOneChild">ஒரு குழந்தைக்கு மட்டும் இலவசமாக பரிசோதனை செய்ய அனுமதிக்கப்படுகிறீர்கள்</string>
+    <string name="okay">சரி</string>
+    <string name="freeTrialEnded">உங்கள் இலவச சோதனை முடிந்தது, மேலும் சோதனை செய்ய பணம் செலுத்துங்கள்</string>
+
+    <string name="test2">சோதனை 2</string>
+    <string name="takeTheTes">அறிக்கையைப் பார்க்க, சோதனை 1ஐ எடுக்கவும்</string>
+    <string name="test1">சோதனை1</string>
+    <string name="share">பகிர்</string>
+    <string name="select_gender">பாலினத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="child_gender">குழந்தை பாலினம்</string>
+    <string name="free_trail">நீங்கள் இலவச சோதனையில் உள்ளீர்கள், சோதனைக்கு ஒரு குழந்தையை மட்டுமே சேர்க்க முடியும்n</string>
+
+</resources>

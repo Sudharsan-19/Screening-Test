@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.2545" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/drawable/ic_iphone_13_pro_max___1__1_.xml" value="0.2405" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout-w1240dp/activity_login10.xml" value="0.14921875" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout-w936dp/activity_login10.xml" value="0.13046448087431695" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_api.xml" value="0.1" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_child.xml" value="0.264" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_home2.xml" value="0.264" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_login10.xml" value="0.2" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_main.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_test1.xml" value="0.2" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_test11.xml" value="0.264" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_test2.xml" value="0.176" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/activity_view_report.xml" value="0.264" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/cardview.xml" value="0.2" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/content_main9.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/fragment_contact.xml" value="0.16" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/score_sheet.xml" value="0.2860696517412935" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/layout/select_items.xml" value="0.12590579710144928" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/menu/bottom_nav.xml" value="0.176" />
+        <entry key="..\:/Users/sudha/AndroidStudioProjects/ScreeningTest/app/src/main/res/xml/network_config_file.xml" value="0.11770833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
